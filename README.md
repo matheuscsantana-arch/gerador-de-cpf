@@ -44,7 +44,7 @@ CPF limpo: 69841214008
 
 CPF formal: 698.412.140-08
 
-![CPF gerado](assets/CPF-Gerado.png)
+![CPF gerado](assets/CPF-Gerado.PNG)
 
 ## 🚀 Status do Projeto
 
