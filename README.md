@@ -1,7 +1,6 @@
 # 🔢 Gerador de CPF 
 
-Este é um projeto desenvolvido em Python com o objetivo de gerar números de CPF (Cadastro de Pessoas Físicas) válidos, seguindo o algoritmo oficial de cálculos de dígitos verificadores.
-O projeto foi criado para fins de estudo da lógica de programação e manipulação de strings e inteiros.
+Este é um projeto desenvolvido em Python com o objetivo de gerar números de CPF (Cadastro de Pessoas Físicas) válidos, seguindo o algoritmo oficial de cálculos de dígitos verificadores. O projeto foi criado para fins de estudo da lógica de programação e manipulação de strings e inteiros.
 
 ## 💻 Tecnologias
 
@@ -20,7 +19,7 @@ python Gerador_CPF.py
 
 ## 🛠️ Funcionalidades
 
-O programa gera um CPF de 11 dígitos válido.
+O programa gera um CPF válido de 11 dígitos.
 | Recurso | Descrição | Detalhes |
 | :--- | :--- | :--- |
 | **Geração Aleatória** | Gera os 9 primeiros dígitos de forma randômica. | Utiliza a biblioteca `random`. |
@@ -39,10 +38,6 @@ O programa gera um CPF de 11 dígitos válido.
 ## 💡 Exemplo de uso
 
 Ao rodar o programa, a saída no console seguirá este modelo:
-
-CPF limpo: 69841214008
-
-CPF formal: 698.412.140-08
 
 ![CPF gerado](assets/CPF-Gerado.PNG)
 
