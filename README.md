@@ -5,7 +5,7 @@ Este é um projeto desenvolvido em Python com o objetivo de gerar números de CP
 ## 💻 Tecnologias
 
 - Python 3.10+.
-- Biblioteca random.
+- Biblioteca `random`.
 
 ## ⚙️ Instalação
 
